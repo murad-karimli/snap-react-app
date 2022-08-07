@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snap-react-app/static/css/main.4c067957.css",
+    "main.js": "/snap-react-app/static/js/main.1858c066.js",
+    "index.html": "/snap-react-app/index.html",
+    "main.4c067957.css.map": "/snap-react-app/static/css/main.4c067957.css.map",
+    "main.1858c066.js.map": "/snap-react-app/static/js/main.1858c066.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c067957.css",
+    "static/js/main.1858c066.js"
+  ]
+}
